@@ -1,1 +1,97 @@
-..
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(226, 223, 223);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border: 1px solid black;
+}
+
+.sisi {
+    width: 50rem;
+    height: 70px;
+    margin-right: 40rem;
+    font-family: "Lato", sans-serif;
+
+    color: black;
+    border: 4px solid black;
+
+    
+
+   
+    
+}
+
+.sisi h3 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.lista {
+    width: 65rem;
+    height: 88px;
+    margin-top: 25px;
+    align-items: center;
+    
+    
+
+}
+
+.lista a {
+    background-color: rgb(17, 17, 17);
+    border: 1px solid rgb(0, 0, 0);
+
+    text-decoration: double;
+    
+    padding: 40px;
+    font-size: 22px;
+    color: rgb(252, 250, 250);
+    font-family: "Mukta", sans-serif;
+    
+}
+
+
+
+.meni {
+    width: 90px;
+    height: 80px;
+
+    margin-right: 20px;
+   
+}
+
+.meni span {
+
+   margin-top: 15px;
+   padding: 15px;
+  
+   background-color: rgb(255, 254, 254);
+   border-radius: 15px;
+
+   border: 1px solid rgb(255, 255, 255);
+
+
+}
+
+.logo {
+
+    width: 90px;
+    height: 80px;
+    border-radius: 25px;
+    margin-left: 35px;
+
+}
+
+.logo img {
+
+    width: 100%;
+    height: 100%;
+
+    border-radius: 15px;
+
+}
+
+

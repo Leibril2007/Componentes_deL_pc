@@ -1,1 +1,95 @@
-..
+
+
+
+
+
+
+
+.foou {
+    width: 100%;
+    
+}
+.foou img {
+   width: 100%;
+   height: 23rem;
+
+} 
+
+ h1 {
+ 
+   font-size: 5rem;
+    position: absolute;
+    
+    color: white;
+    padding: 30px;
+  
+   
+}
+
+h2 {
+    font-size: 4rem;
+    position: absolute;
+    
+    color: white;
+    padding: 6rem;
+    top: 150px;
+}
+
+.ins img {
+    
+    position: absolute;
+    width: 22rem;
+    height: 20rem;
+    margin-left: 180rem;
+    padding: 6rem;
+    top: 50px;
+}
+
+
+.face img {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    margin-left: 180rem;
+    padding: 6rem;
+    top: 150px;
+}
+
+p {
+    font-size: 4rem;
+    position: absolute;
+    margin-left: 150rem;
+    padding: 6rem;
+    top: 170px;
+}
+
+h4 {
+    font-size: 4rem;
+    position: absolute;
+    margin-left: 143rem;
+    padding: 6rem;
+    top: 70px;
+}
+
+.final {
+  
+    position: absolute;
+    width: 40rem;
+    height: 33rem;
+    margin-left: 80rem;
+    padding: 6rem;
+    top: 50px;
+
+    
+}
+
+.final img {
+    width: 100%;
+    height: 100%;
+    border-radius: 200px;
+    
+
+    border: 3px solid black;
+
+}
+
