@@ -19,5 +19,5 @@ fouu.innerHTML = `
 <div class="final">
     <img src="https://i.pinimg.com/564x/11/cb/a5/11cba5fca7b52324d5a7844174372e93.jpg" alt="">
 </div>
-`
+`;
 

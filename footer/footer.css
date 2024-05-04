@@ -15,7 +15,7 @@
 
 } 
 
- h1 {
+.foou h1 {
  
    font-size: 5rem;
     position: absolute;
@@ -30,9 +30,9 @@ h2 {
     font-size: 4rem;
     position: absolute;
     
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 6rem;
-    top: 150px;
+    top: 750px;
 }
 
 .ins img {
@@ -40,9 +40,9 @@ h2 {
     position: absolute;
     width: 22rem;
     height: 20rem;
-    margin-left: 180rem;
+    margin-left: 178rem;
     padding: 6rem;
-    top: 50px;
+    top: 650px;
 }
 
 
@@ -52,7 +52,9 @@ h2 {
     height: 20rem;
     margin-left: 180rem;
     padding: 6rem;
-    top: 150px;
+    top: 740px;
+
+    
 }
 
 p {
@@ -60,15 +62,15 @@ p {
     position: absolute;
     margin-left: 150rem;
     padding: 6rem;
-    top: 170px;
+    top: 770px;
 }
 
 h4 {
     font-size: 4rem;
     position: absolute;
-    margin-left: 143rem;
+    margin-left: 140rem;
     padding: 6rem;
-    top: 70px;
+    top: 670px;
 }
 
 .final {
@@ -78,7 +80,7 @@ h4 {
     height: 33rem;
     margin-left: 80rem;
     padding: 6rem;
-    top: 50px;
+    top: 650px;
 
     
 }
