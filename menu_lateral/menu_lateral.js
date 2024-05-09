@@ -1,13 +1,13 @@
-let pMenu_lateral = document.querySelector(".section1");
+
+let pMenu_lateral = document.querySelector(".menu-Lateral")
 
 pMenu_lateral.innerHTML =
-` <article class="menu-lateral" >
-
+`   <nav class="menu-lateral" >
         <div class="cBot">
-            <a href="CPU.html" class="botMen">CPU</a>
+            <a href="" class="botMen">CPU</a>
         </div>
         <div class="cBot">
-            <a href="GPU.html" class="botMen">GPU</a>
+            <a href="" class="botMen">GPU</a>
         </div>
         <div class="cBot">
             <a href="MB.html" class="botMen">MB</a>
@@ -21,6 +21,7 @@ pMenu_lateral.innerHTML =
         <div class="cBot">
             <a href="" class="botMen">Fuente</a>
         </div>
-        </article>`+
-        `<article class="Contenido"></article>`;
+    </nav>`;
+
+        
 
