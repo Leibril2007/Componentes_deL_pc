@@ -20,9 +20,7 @@
 
 }
 
-footer{
-    background-color: aqua;
-}
+
 
 .foou img {
    width: 100%;
@@ -68,10 +66,11 @@ footer{
 }
 
 .Desa h3{
-    background-color: rgb(142, 177, 163);
+    background-color: rgb(174, 180, 194);
     width: 20rem;
     margin-left: 9rem;
     border-radius: 3px;
+    
 
 }
 
