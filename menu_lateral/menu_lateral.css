@@ -5,7 +5,7 @@
 }
 
 .menu-lateral{
-    height: 62rem;
+    height: 68rem;
     border-right: 2px solid #9d9d9d ;/* rgb(179, 0, 0) */
 
     display: flex;
@@ -25,6 +25,8 @@
     height: 4rem;
     border: 1px solid black;/* rgb(187, 20, 20) */
     border-radius: 5px;
+    /* box-shadow: -3px 3px 6px rgba(0, 0, 0, 0.4); */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 
     font-size: 2rem;
 
@@ -37,7 +39,9 @@
     cursor: pointer;
     width: 15rem;
     transition: 0.5s;
-    background-color: rgb(203, 197, 197);
+    /* background-color: rgb(203, 197, 197); */
+    background-color: black;
+    color: rgb(255, 255, 255);
 }
 
 .botMen{

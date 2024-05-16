@@ -18,16 +18,42 @@ pContenido.innerHTML =
 
     <h1 class="titCarac">Características</h1>
     <div class="pList">
+        
+        <table>
+            <tr>
+                <td class="subtitTab">Procesador de Comandos</td>
+                <td> Lee la lista de pantalla o de instrucciones que le envía la CPU, tanto para generar gráficos como para hacer cálculos complejos.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Unidad de Rasterizado</td>
+                <td>Unidad que realiza la transformación del espacio tridimensional basado en vertices a uno bidimensional basado en píxeles.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Unidad de Texturizado</td>
+                <td>Se encarga de aplicar una imagen sobre una superficie para simular textura o color en la vida real.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Raster Output</td>
+                <td>Unidad encargada de dibujar los pixeles finales sobre el búfer de imagen. Es junto a la Cache de último nivel la única pieza que tiene permisos de escritura sobre la VRAM.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">CODEC de Vídeo</td>
+                <td>Procesador independiente que descodifica vídeo en varios formatos multimedia y los reproduce, así como se encarga de generar vídeo e incluso pasar de un formato a otro.</td>
+            </tr>
 
-        <ul>
-            <li>Procesador de comandos. </li>
-            <li>Unidad de Texturizado.</li>
-            <li>DMA.</li>
-        </ul>
 
-        <ul>
-            <li>Raster Output.</li>
-            <li>Unidad Shader.</li>
-        </ul>
+        </table>
+  
     </div>`;
 
+
+        //   <ul>
+        //     <li>Procesador de comandos. </li>
+        //     <li>Unidad de Texturizado.</li>
+        //     <li>DMA.</li>
+        // </ul>
+
+        // <ul>
+        //     <li>Raster Output.</li>
+        //     <li>Unidad Shader.</li>
+        // </ul>

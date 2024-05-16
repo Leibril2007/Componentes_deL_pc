@@ -1,0 +1,28 @@
+
+.section1{
+    display: flex;
+    justify-content: center;
+}
+
+.Bienvenida{
+    width: 85rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+    gap: 5rem;
+    font-family: "Play", sans-serif;
+    
+}
+
+
+.titGeneral{
+    font-size: 6rem;
+    text-align: center;
+    color: #34495E   ;
+}        
+.subtitGeneral{
+    font-size: 4rem;
+    text-align: center;
+    color: #566573;
+} 

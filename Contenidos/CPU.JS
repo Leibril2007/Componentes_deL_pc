@@ -19,16 +19,29 @@ pContenido.innerHTML =
     <h1 class="titCarac">Características</h1>
     <div class="pList">
 
-        <ul>
-            <li>Consumo energético. </li>
-            <li>Número de núcleos.</li>
-            <li>Memoria caché.</li>
-        </ul>
+        <table>
+            <tr>
+                <td class="subtitTab">Consumo energético</td>
+                <td>Es la velocidad que puede desarrollar el CPU, misma que está determinada por la potencia.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Número de núcleos</td>
+                <td>A mayor cantidad de núcleos, mayor la cantidad de acciones que pueden realizarse en forma simultánea.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Memoria caché</td>
+                <td>Almacena datos y permite acceder a ellos de manera rápida. La velocidad y capacidad de la memoria caché mejora el desempeño del dispositivo.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Número de hilos</td>
+                <td>Ayuda al procesador a manejar y ejecutar acciones de forma más eficiente. Divide las tareas o procesos para optimizar los tiempos de espera entre una acción y la otra.</td>
+            </tr>
+            <tr>
+                <td class="subtitTab">Frecuencia de reloj</td>
+                <td>Refiere a la velocidad de reloj que tiene el CPU y que determina la cantidad de acciones que puede ejecutar en un período de tiempo.</td>
+            </tr>
 
-        <ul>
-            <li>Número de hilos.</li>
-            <li>Frecuencia de reloj.</li>
-            <li>Zócalo.</li>
-        </ul>
+
+        </table>
     </div>`;
 
