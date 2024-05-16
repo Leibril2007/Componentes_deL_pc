@@ -3,6 +3,6 @@ body{
     margin: auto;
 
     display: grid;
-    grid-template-columns: 20rem 1fr;
-    grid-template-rows: 10rem 1fr auto;
+    grid-template-columns: 20rem auto;
+    grid-template-rows: auto 1fr auto;
 }

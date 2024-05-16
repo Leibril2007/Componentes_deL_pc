@@ -1,4 +1,4 @@
-let pContenido = document.querySelector(".section1")
+let pContenido = document.querySelector(".section_cpu")
 
 pContenido.innerHTML = 
 

@@ -5,8 +5,8 @@
 }
 
 .menu-lateral{
-    height: 60rem;
-    border-right: 2px solid rgb(179, 0, 0);
+    height: 62rem;
+    border-right: 2px solid #9d9d9d ;/* rgb(179, 0, 0) */
 
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@
 .cBot{
     width: 13rem;
     height: 4rem;
-    border: 1px solid rgb(187, 20, 20);
+    border: 1px solid black;/* rgb(187, 20, 20) */
     border-radius: 5px;
 
     font-size: 2rem;
@@ -34,6 +34,7 @@
 }
 
 .cBot:hover {
+    cursor: pointer;
     width: 15rem;
     transition: 0.5s;
     background-color: rgb(203, 197, 197);
@@ -43,3 +44,4 @@
     text-decoration: none;
     color: black;
 }
+
