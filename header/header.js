@@ -1,4 +1,3 @@
-
 let header = document.querySelector(".header");
 
 header.innerHTML =
@@ -29,10 +28,7 @@ header.innerHTML =
         </div>
     </div>
 
-
-
-
-    
-
-
 `;
+
+
+
