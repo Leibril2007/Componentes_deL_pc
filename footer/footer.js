@@ -15,14 +15,13 @@ fouu.innerHTML = `
       </div>
     <div class="Accesos">
         <div class="hijos">
-            
             <h3>Leibril 👤</h3>
             <br>
             <a href="https://github.com/Leibril2007">Visita aquí nuestro repositorio ↩</a>
         </div>
         <div class="hijos">
             <br>
-            <h3>LuchG 👤</h3>
+            <h3> Macknae👤</h3>
             <br>
             <a href="https://github.com/marianaseven2013">Visita aquí nuestro repositorio ↩</a>
         </div>
@@ -61,7 +60,6 @@ fouu.innerHTML = `
         <div class="final">
        <a href="https://www.hp.com/mx-es/shop/tech-takes/que-hace-la-tarjeta-madre">Fuente 6</a>
         </div>
-
     </div>
     <div class="redes">
         <img src="https://cdn.icon-icons.com/icons2/3858/PNG/512/instagram_logo_icon_238280.png" alt="">
@@ -71,7 +69,6 @@ fouu.innerHTML = `
 </div>
 <div class="stacks">
     <h2>stacks</h2>
-    
     <div class="logos">
         <img src="https://i.pinimg.com/236x/0e/7d/4a/0e7d4ad55cdc3db527af6c3d72f41ad0.jpg" alt="">
         <img src="https://i.pinimg.com/564x/a5/d2/a9/a5d2a913006aee3504a6882ce38f7959.jpg" alt="">
